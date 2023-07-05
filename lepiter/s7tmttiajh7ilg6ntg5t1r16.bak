@@ -1,0 +1,252 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:51:04.005931-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:51:50.021576-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YZH7d7ayDQC6JuboAFQ9DQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "# Test using objects"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:51:58.319977-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:51:59.129784-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kUs4e7ayDQC6fMFnAFQ9DQ=="
+				},
+				"code" : "program1 := Program new\r\t\t\t\tid: '1';\r\t\t\t\tname: 'Mestrado Profissional Executivo em Gestão Empresarial';\r\t\t\t\ttype: 'MESTRADO'.\r\t\t\t\t\rprogram2 := Program new\r\t\t\t\tid: '2';\r\t\t\t\tname: 'Mestrado Profissional em Administração Pública';\r\t\t\t\ttype: 'MESTRADO'.\r\t\t\t\t\r\t\t\t\t\rcohort1 := Cohort new\r\t\t\tid: '1';\r\t\t\tname: 'Mestrado Profissional Executivo em Gestão Empresarial 2018 (Regular)'.\r\t\t\t\rcohort2 := Cohort new\r\t\t\tid: '2';\r\t\t\tname: 'Mestrado Profissional Executivo em Gestão Empresarial 2018 (Intensiva)'.\r\t\t\t\r\t\t\t\rprogram1 \r\taddCohort: cohort1;\r\taddCohort: cohort2."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:52:08.281314-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:52:11.842094-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "M1HQe7ayDQC6hUSOAFQ9DQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "##  API using objects"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:52:16.687863-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:52:23.768009-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "XZZQfLayDQC6oRCCAFQ9DQ=="
+				},
+				"code" : "programs := Dictionary new.\rprograms at: '1' put: program1.\rprograms at: '2' put: program2.\r\r\rteapot2 := Teapot configure: { #defaultOutput -> #json. #port -> 8283 }.\rteapot2\rGET: '/programas' -> programs;\rGET: '/programas/<id:IsInteger>' -> [ :request | programs at: (request at: #id) asString];\rstart."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:53:00.542868-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:53:03.327987-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "e3ztfrayDQC6vpEDAFQ9DQ=="
+				},
+				"code" : "teapot2 stop"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:52:13.008948-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-03-07T16:52:13.008948-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "VnUYfLayDQC6nUHsAFQ9DQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2023-03-07T16:51:03.964941-03:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2023-03-08T12:30:20.843-03:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : " Mock API SGA - Using Objects"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "1af0fa77-b6b2-0d00-ba25-4fc800543d0d"
+	}
+}

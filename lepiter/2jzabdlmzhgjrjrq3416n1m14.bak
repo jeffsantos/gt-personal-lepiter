@@ -1,0 +1,243 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:01:03.054-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:38:41.674-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sIgBQx+SDQCiebA5BjgoKw=="
+				},
+				"code" : "targetFolder := 'models' asFileReference ensureCreateDirectory.\r\narchiveFileName := 'ArgoUML-0-34.zip'.\r\narchiveUrl := 'https://dl.feenk.com/moose-tutorial/argouml/'.ZnClient new\r\n  url: archiveUrl, archiveFileName;\r\n  signalProgress: true;\r\n  downloadTo: targetFolder.\r\n(ZipArchive new \r\n  readFrom: targetFolder / archiveFileName) \r\n    extractAllTo: targetFolder.targetFolder"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:40:06.843-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:40:08.649-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eOq0zh+SDQCinxYGBjgoKw=="
+				},
+				"code" : "modelFile := 'models' asFileReference\r\n  / 'ArgoUML-0-34'\r\n  / 'ArgoUML-0-34.mse'.\r\nmodel := MooseModel new\r\n  importMSEFromFile: modelFile.\r\nmodel"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:48:46.35-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:49:50.359-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sPar7R+SDQCiorY7BjgoKw=="
+				},
+				"code" : "deprecatedClasses := model allModelClasses select: [:each |\r\n  each isAnnotatedWith: 'Deprecated' ]."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:53:08.267-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:53:24.374-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+H9I/R+SDQCirRPgBjgoKw=="
+				},
+				"code" : "deprecatedClasses select: [ :each |\r\n  each clientTypes isEmpty ]."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:54:12.853-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:54:16.274-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CAEiASCSDQCir4g7BjgoKw=="
+				},
+				"code" : "stillUsedClasses := deprecatedClasses select: [ :each |\r\n  each clientTypes isNotEmpty ]."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:56:17.466-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-01-16T23:59:03.677-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kHKPCCCSDQCisfR4BjgoKw=="
+				},
+				"code" : "view := GtMondrian new.\r\nview nodes \r\n  with: (stillUsedClasses, \r\n    (stillUsedClasses flatCollect: #clientTypes)) asSet.\r\nview layout grid.\r\nview"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-01-16T23:01:03.054-03:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-01-16T23:01:03.054-03:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "unnamedPage",
+		"defaultTitle" : "Playground"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "c8840143-1f92-0d00-a278-2dac0638282b"
+	}
+}

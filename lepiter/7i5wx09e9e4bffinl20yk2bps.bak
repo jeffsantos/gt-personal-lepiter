@@ -1,0 +1,141 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-05-31T08:57:55.158-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-05-31T17:44:47.379-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CPxixF25DQCrJhfmAb+PzA=="
+				},
+				"code" : "self select: [ :each | (each isAnnotatedWith: 'Deprecated') and: each clientTypes isNotEmpty ]"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-05-31T17:48:37.799-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-05-31T18:58:32.72-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WCRbLmW5DQCRn/oIAfXEKA=="
+				},
+				"code" : "view := GtMondrian new.\r\rview nodes\r\twith: self, (self flatCollect: #clientTypes) asSet.\r\t\rview layout grid.\r\rview"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-05-31T18:51:36.957-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-05-31T19:03:39.663-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eHycD2a5DQCT/9SbAfXEKA=="
+				},
+				"code" : "view := GtMondrian new.\r\rview nodes\r\tshape: [ :each | \r\t\tBlElement new\r\t\t\tsize: 5@5;\r\t\t\tgeometry: BlCircle new;\r\t\t\tbackground: ((each isAnnotatedWith: 'Deprecated')\r\t\t\t\tifTrue: [Color red]\r\t\t\t\tifFalse: [Color gray]) ];\r\twith: self, (self flatCollect: #clientTypes) asSet.\r\t\rview edges\r\tconnectFromAll: #clientTypes.\r\t\rview layout force.\r\t\rview"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-01-14T22:02:09.794-03:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-01-14T22:02:09.794-03:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "pharoClassPage",
+		"pageClassName" : "FAMIXClassGroup"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "d083b934-f691-0d00-9eab-de3e0cd7c27e"
+	}
+}

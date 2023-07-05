@@ -1,0 +1,320 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:20:17.794-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:22:43.604-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4ChWjUmUDQCqurnYDN63/Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The snippets bellow work on GT, but there is no default Roassal visualization canvas. We can see the standard inspector showing the RSCanvas object. \r\n\r\nWe can run the same snippets on Pharo Playground inside GT and they will work."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-25T17:40:05.71-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-10-25T18:05:23.857-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sMjUcD+VDQCkEBQXDbugTA=="
+				},
+				"code" : "currentModelFile := 'D:\\Users\\jefferson\\Google Drive\\_docs\\acad\\estudos\\programming\\smalltalk\\models\\generated-by-feenk-roslyn2famix\\sga.mse'."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-10-26T07:48:48.934-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-10-26T07:49:23.274-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "cESwgU+oDQCEvh0BAc9TGQ=="
+				},
+				"code" : "basePath := 'D:\\Users\\jefferson\\Google Drive\\_docs\\acad\\estudos\\programming\\smalltalk\\models\\'.\r\n\r\noldFamixJava := basePath,'generated-by-feenk-jdt2famix\\ArgoUML-0-34-gt.mse'.\r\rcurrentModelFile := oldFamixJava."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-25T16:51:15.48-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-25T16:54:40.587-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wAUtwj6VDQCj6huhDbugTA=="
+				},
+				"code" : "model := MooseModel new importMSEFromFile: currentModelFile asFileReference."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:24:21.974-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:24:33.051-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CMyZoUmUDQCqy97DDN63/Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Showing SGA namespaces in a diagram like a UML-Class Diagram."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:28:49.494-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T22:53:39.753-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8NeLsUmUDQCqzldaDN63/Q=="
+				},
+				"code" : "\"The variable classes contains the classes we would like to visualize\"\r\nns := model allNamespaces.\r\n\r\n\"A canvas is a container of graphical shapes\"\r\nc := RSCanvas new.\r\n\r\n\"Each class is represented as a box\"\r\nns do: [ :aNamespace | c add: (RSBox new model: aNamespace) ].\r\n\r\nc nodes do: [ :node | (node asString findString: 'EBAPE') > 0 ifTrue: [ node color: Color blue ]  ].\r\n\r\n\"Height of each class represents the number of methods\"\r\nRSNormalizer height shapes: c shapes; normalize: #numberOfClasses.\r\n\r\n\"The width of each class indicates the number of variables defined in the class\"\r\nRSNormalizer width shapes: c shapes; from: 6; to: 20; \r\n\tnormalize: #numberOfLinesOfCode.\r\n\r\n\"Vertical lines indicate the dependency relationship\"\r\nRSLineBuilder orthoVertical \r\n\tcanvas: c; withVerticalAttachPoint; color: Color lightGray;\r\n\tconnectToAll: #childrenOfMyKind;\r\n\tmarkerEnd: (RSShapeFactory arrow).\r\n\r\n\"Use a tree layout to adequately locate the classes\"\r\nRSTreeLayout on: c nodes.\r\n\r\n\"We make all the classes draggable and with a contextual popup window\"\r\nc nodes @ RSDraggable @ RSPopup.\r\n\r\n\"The whole visualization is zoomable, draggable, and shapes may be searched in it\"\r\nc @ RSCanvasController."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:34:23.983-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:34:40.432-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mBjbxEmUDQCq075LDN63/Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "A UML Class diagram of all SGA's classes"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:30:54.197-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-13T12:31:06.121-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CKn6uEmUDQCq0qAwDN63/Q=="
+				},
+				"code" : "builder := RSUMLClassBuilder new.\r\nclasses := model allModelClasses.\r\nbuilder modelDescriptor\r\n        instVars: [ :aFamixClass | aFamixClass attributes ];\r\n        instVarSelector: [:aFamixAttribute | aFamixAttribute name];\r\n        methods: [ :aFamixClass | aFamixClass methods];\r\n        methodSelector: [:aFamixMethod | aFamixMethod name].\r\n\r\nbuilder classes: classes.\r\nbuilder build.\r\nbuilder canvas @ RSHierarchyPacker.\r\nbuilder canvas"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-01-13T10:23:50.499-03:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2022-02-13T12:33:08.651-03:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Rossal 3 - SGA Assessment"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "b8a27d55-d891-0d00-9722-62cf0f39d17d"
+	}
+}
