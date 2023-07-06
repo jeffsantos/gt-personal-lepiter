@@ -17,11 +17,15 @@ BaselineOfGtPersonalLepiter class >> loadLepiter [
 			currentProperties := defaultDatabase properties.
 			currentProperties
 				addRegisteredDirectory: aRepository repositoryDirectory / 'lepiter'.
-				defaultDatabase reload. Halt now.
-			(defaultDatabase databases
-				detect: [ :aDatabase | aDatabase databaseName includesSubstring: repositoryName ])
-				databaseName: 'My Personal Lepiter']
+				defaultDatabase reload]
 		ifNone: [ self inform: 'Repository not found.' ]
+]
+
+{ #category : #loading }
+BaselineOfGtPersonalLepiter class >> renameLepiter [
+	LeDatabasesRegistry defaultLogicalDatabase databases 
+		detect: [ :aDatabase | aDatabase databaseName includesSubstring: 'gt-personal-lepiter' ] 
+		ifFound: [ :aDatabase | aDatabase databaseName: 'My Personal Lepiter']
 ]
 
 { #category : #baseline }
