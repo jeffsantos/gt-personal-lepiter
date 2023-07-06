@@ -6,17 +6,22 @@ Class {
 
 { #category : #loading }
 BaselineOfGtPersonalLepiter class >> loadLepiter [
-	IceRepository registry  
-		detect: [ :aRepository |
-			aRepository name = 'gt-personal-lepiter' ]
+	| repositoryName |
+	repositoryName := 'gt-personal-lepiter'.
+
+	IceRepository registry
+		detect: [ :aRepository | aRepository name = repositoryName ]
 		ifFound: [ :aRepository | 
 			| defaultDatabase currentProperties |
 			defaultDatabase := LeDatabasesRegistry defaultLogicalDatabase.
 			currentProperties := defaultDatabase properties.
-			currentProperties addRegisteredDirectory: aRepository repositoryDirectory / 'lepiter'.
-			defaultDatabase reload ]
-		ifNone: [
-			self inform: 'Repository not found.' ]
+			currentProperties
+				addRegisteredDirectory: aRepository repositoryDirectory / 'lepiter'.
+				defaultDatabase reload. Halt now.
+			(defaultDatabase databases
+				detect: [ :aDatabase | aDatabase databaseName includesSubstring: repositoryName ])
+				databaseName: 'My Personal Lepiter']
+		ifNone: [ self inform: 'Repository not found.' ]
 ]
 
 { #category : #baseline }
