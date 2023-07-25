@@ -102,43 +102,6 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-07-04T17:03:17.968-03:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-07-04T17:03:17.974-03:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "+IlEghC8DQCc7b/8ASVt9g=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "[[snippet - Loading SGA Analysis]]"
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
 												"dateAndTimeString" : "2023-07-04T17:08:18.799-03:00"
 											}
 										},
@@ -310,6 +273,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "[[video-tutorial - ChatGPT Prompt Engineering for Developers]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-07-25T19:01:43.92841-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-07-25T19:02:02.134695-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "82J+nLi9DQC6c5kjDXTnfg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[snippet - Linkedin Analysis]]"
 									}
 								]
 							},

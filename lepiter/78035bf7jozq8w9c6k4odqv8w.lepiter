@@ -127,12 +127,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-07-14T22:22:43.678-03:00"
+			"dateAndTimeString" : "2023-07-25T19:02:02.128778-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Linkedin Analysis"
+		"title" : "snippet - Linkedin Analysis"
 	},
 	"uid" : {
 		"__type" : "uuid",
