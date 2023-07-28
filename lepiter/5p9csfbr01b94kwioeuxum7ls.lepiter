@@ -977,6 +977,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[book - Artificial Intelligence in Pharo]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-27T20:08:01.586392-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-07-27T20:08:01.592639-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "zGpNxeG9DQC9FaLMDXTnfg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[note - Task Organization]]"
 						}
 					]
 				},
@@ -1010,40 +1047,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "[[Personal Notes]]"
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-04T16:35:58.473-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-04T16:36:47.416-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "QNcfIRC8DQCLlex2AIe1rQ=="
-				},
-				"code" : ""
 			}
 		]
 	},
