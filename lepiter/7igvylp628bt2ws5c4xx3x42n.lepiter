@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:01:09.954329-03:00"
+						"dateAndTimeString" : "2023-07-27T20:03:14.496743-03:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:01:10.736897-03:00"
+						"dateAndTimeString" : "2023-08-04T22:48:07.806-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sMNLreG9DQC7oO5xDXTnfg=="
+					"uidString" : "hRy4tOG9DQC8a2S2DXTnfg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Ler tcc aluno do Hermann}}"
+				"string" : "{{gtTodo:label=Primeira aula de Prog Aplic 2|completed=2023-08-04}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:02:11.61012-03:00"
+						"dateAndTimeString" : "2023-07-30T21:27:15.795-03:00"
 					}
 				},
 				"uid" : {
@@ -76,44 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Ler dissertação aluno do Bushbinder}}"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:02:14.077539-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:02:34.432152-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "NTUeseG9DQC73AT0DXTnfg=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "{{gtTodo:label=Ler dissertação aluna do Yan}}"
+				"string" : "{{gtTodo:label=Ler dissertação aluno do Bushbinder|completed=2023-07-30}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:02:51.675163-03:00"
+						"dateAndTimeString" : "2023-08-04T22:48:10.099-03:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Apresentação Machine Learning para Fundamental/Médio}}"
+				"string" : "{{gtTodo:label=Apresentação Machine Learning para Fundamental/Médio|completed=2023-08-04}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:01:13.295298-03:00"
+						"dateAndTimeString" : "2023-07-30T21:15:23.044-03:00"
 					}
 				},
 				"editEmail" : {
@@ -177,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:03:10.334297-03:00"
+						"dateAndTimeString" : "2023-07-30T21:20:11.257-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "G7d+reG9DQC7sDBbDXTnfg=="
+					"uidString" : "oKg+EB++DQCD0uhGAoAIWQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Plano de aulas de Prog Aplic 2}}"
+				"string" : "{{gtTodo:label=Plano de aulas de Prog Aplic 2-Botafogo-Terça|completed=}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -203,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:03:14.496743-03:00"
+						"dateAndTimeString" : "2023-07-30T21:15:39.446-03:00"
 					}
 				},
 				"editEmail" : {
@@ -214,17 +177,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:03:30.125995-03:00"
+						"dateAndTimeString" : "2023-07-30T21:15:44.98-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "hRy4tOG9DQC8a2S2DXTnfg=="
+					"uidString" : "COs4ER++DQCEMdY3AoAIWQ=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Primeiras aulas de Prog Aplic 2}}"
+				"string" : "{{gtTodo:label=Plano de aulas de Prog Aplic 2-Botafogo-Quinta|completed=}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-27T20:02:14.077539-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-04T22:48:15.027-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "NTUeseG9DQC73AT0DXTnfg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "{{gtTodo:label=Ler dissertação aluna do Yan|completed=2023-08-04}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -251,7 +251,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:03:50.363787-03:00"
+						"dateAndTimeString" : "2023-08-04T22:48:18.847-03:00"
 					}
 				},
 				"uid" : {
@@ -261,7 +261,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Verificar progresso Felipe/Roger}}"
+				"string" : "{{gtTodo:label=Verificar progresso Felipe/Roger|completed=2023-08-04}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -288,7 +288,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-07-27T20:06:53.585008-03:00"
+						"dateAndTimeString" : "2023-08-04T22:48:19.702-03:00"
 					}
 				},
 				"uid" : {
@@ -298,7 +298,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Verificar progresso Carlos/Ailec}}"
+				"string" : "{{gtTodo:label=Verificar progresso Carlos/Ailec|completed=2023-08-04}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -336,6 +336,80 @@
 					"__type" : "textStyle"
 				},
 				"string" : "{{gtTodo:label=Verificar progresso Pipeline-Dados}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-27T20:01:09.954329-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-30T21:14:23.017-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sMNLreG9DQC7oO5xDXTnfg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "{{gtTodo:label=Ler tcc aluno do Hermann|completed=2023-07-30}}"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-27T20:01:13.295298-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-30T21:15:47.676-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "G7d+reG9DQC7sDBbDXTnfg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "{{gtTodo:label=Plano de aulas de Prog Aplic 2-Barra|completed=2023-07-30}}"
 			}
 		]
 	},

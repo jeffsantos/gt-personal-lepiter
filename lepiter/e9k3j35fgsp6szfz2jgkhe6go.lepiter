@@ -29,14 +29,218 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2022-10-27T18:04:51.637-03:00"
+						"dateAndTimeString" : "2023-07-31T08:17:21.08-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "MNrxd/2UDQCGn8/RDSn28A=="
 				},
-				"code" : "P3Client new\r\thost: 'localhost';\r\tport: 5433;\r\tuser: 'postgres';\r\tpassword: 'aulasql';\r\tdatabase: 'pgfn202202'"
+				"code" : "client := P3Client new\r\t\t\thost: 'localhost';\r\t\t\tport: 5433;\r\t\t\tuser: 'postgres';\r\t\t\tpassword: 'larinha';\r\t\t\tdatabase: 'teste'"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T08:17:11.447-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T08:17:28.892-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8MkMTyi+DQCLW6CmC7dMMg=="
+				},
+				"code" : "client query: 'SELECT * FROM table1'"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:15:56.525-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:16:14.063-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4HH4lSG+DQCuT5CGDQp8Rg=="
+				},
+				"code" : "P3Client new url: 'psql://postgres:larinha@localhost:5433/teste'."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:18:12.886-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:18:27.728-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ICIZniG+DQCu1lFhDQp8Rg=="
+				},
+				"code" : "(P3Client new url: 'psql://postgres:larinha@localhost:5433/teste') in: [ :client |\n   [ client isWorking ] ensure: [ client close ] ]."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:19:00.337-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:19:16.251-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "gDHtoCG+DQCu7etRDQp8Rg=="
+				},
+				"code" : "(P3Client new url: 'psql://postgres:larinha@localhost:5433/teste') in: [ :client |\n   client execute: 'DROP TABLE IF EXISTS table1'.\n   client execute: 'CREATE TABLE table1 (id INTEGER, name TEXT, enabled BOOLEAN)'.\n   client execute: 'INSERT INTO table1 (id, name, enabled) VALUES (1, ''foo'', true)'.\n   client execute: 'INSERT INTO table1 (id, name, enabled) VALUES (2, ''bar'', false)'.\n   client close ]."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:19:34.763-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:19:46.635-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "KHr6oiG+DQCvAfBrDQp8Rg=="
+				},
+				"code" : "(P3Client new url: 'psql://postgres:larinha@localhost:5433/teste') in: [ :client |\n   [ client query: 'SELECT * FROM table1' ] ensure: [ client close ] ]."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:21:00.835-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-07-31T00:21:08.239-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0NgbqCG+DQCvF8XkDQp8Rg=="
+				},
+				"code" : "(P3Client new url: 'psql://postgres:larinha@localhost:5433/teste') in: [ :client |\n   [ client execute: 'DROP TABLE table1' ] ensure: [ client close ] ]."
 			}
 		]
 	},
