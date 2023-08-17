@@ -1,0 +1,425 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T10:37:47.32-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T10:51:51.9502-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "X/JTI2y/DQCvxzwkBtgE8w=="
+				},
+				"code" : "urlBase := 'https://smarthub.keystoneacademic.com/api/rest/'."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T10:52:09.037318-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:14:14.193212-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "gr6wVmy/DQCwztvqBtgE8w=="
+				},
+				"code" : "client := ZnClient new. "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:14:20.55402-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:14:31.513766-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vRUOpmy/DQCyiPa5BtgE8w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## GetProgram"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:14:42.41925-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:14:54.150071-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "16/Xpmy/DQCyzYcXBtgE8w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Used to get the program id."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T10:51:45.401045-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T10:51:49.004278-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "bhFIVWy/DQCwudW1BtgE8w=="
+				},
+				"code" : "endPoint := 'getProgram'."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T10:33:25.770252-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T14:30:32.79955-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4hS9E2y/DQCu316mBtgE8w=="
+				},
+				"code" : "json := client \r\tenforceHttpSuccess: true;\r\turl: urlBase, endPoint;\r\theaderAt: 'x-api-key' put: 'pCeDfD5X6RHFx4S7pJjcm1ZrTlWW2xiTdyfKFxJA';\r\tformAt: 'program_name' put: 'The International Business Education Alliance';\r\tpost.\r\t\rprogramsDict := STON fromString: json.\r\rprograms := (programsDict at: 'data') collect: [ :each | KSProgram new rawData: each ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:15:10.140859-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:15:17.037584-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yLcCqWy/DQCz+nxzBtgE8w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## GetLeads"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:15:46.009436-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:16:33.870574-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mQcmq2y/DQC0NVu9BtgE8w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "With the program id, build a list (array) and ask to the leads  of each program"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:16:47.870484-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:16:57.332624-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hu3Vrmy/DQC2ZPbqBtgE8w=="
+				},
+				"code" : "endPoint := 'getLead'."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:11:04.771871-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T14:39:11.672211-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "/aZimmy/DQCyH3b4BtgE8w=="
+				},
+				"code" : "ibeaProgram := programs at: 1.\r\rprogramIdList := (Array new:1)\r\t\t\t\t\tat: 1 put: ibeaProgram id;\r\t\t\t\t\tyourself.\r\t\t\t\t\t\rprogramsParam := {'before' -> '2023-08-16'.\r\t\t\t\t  \"'after' -> '2023-07-01'.\"\r\t\t\t\t  'programs' -> programIdList.\r\t\t\t\t  'unsent' -> 0.\r\t\t\t\t  'limit' -> 35. } asDictionary.\r\t\t\t\t  \rentityStr := NeoJSONWriter toStringPretty:programsParam.\r"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T11:10:53.694265-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-08-16T14:31:02.319903-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Nqe5mWy/DQCyFsEUBtgE8w=="
+				},
+				"code" : "json := client \n   url: urlBase , endPoint;\r   headerAt: 'x-api-key' put: 'pCeDfD5X6RHFx4S7pJjcm1ZrTlWW2xiTdyfKFxJA';\n   entity: (ZnEntity\n               with: entityStr\n               type: ZnMimeType applicationJson);\n   post.\r   \rleadsDict := STON fromString: json.\r\rleads := (leadsDict at: 'data') collect: [ :each | KSLead new rawData: each ]\r"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2023-08-17T12:44:53.841598-03:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2023-08-17T12:44:53.841598-03:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "snippet - Exploring KeyStone API"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "5d0ebd13-6cbf-0d00-aede-141c06d804f3"
+	}
+}

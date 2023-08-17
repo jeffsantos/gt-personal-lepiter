@@ -310,6 +310,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "[[snippet - Linkedin Analysis]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-08-17T12:45:20.588581-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-08-17T12:45:20.597229-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "aaKvCIK/DQC+JqepCi1Xow=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[snippet - Exploring KeyStone API]]"
 									}
 								]
 							},
