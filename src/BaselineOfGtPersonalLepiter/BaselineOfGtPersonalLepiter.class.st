@@ -31,7 +31,9 @@ BaselineOfGtPersonalLepiter class >> renameLepiter [
 { #category : #baseline }
 BaselineOfGtPersonalLepiter >> baseline: spec [
 	<baseline>
-		^ spec for: #common do: [
-			spec package: 'GtPersonalLepiter'
+		spec for: #common do: [
+			spec 
+				package: 'RESTDomain-Core';
+				package: 'GtPersonalLepiter'with: [ spec requires: #('RESTDomain-Core') ]
 		]
 ]
