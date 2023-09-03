@@ -55,6 +55,74 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-09-02T23:47:05.481558-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-09-02T23:50:30.667986-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mYxlJc3ADQCzgQCtDy/3vQ=="
+				},
+				"code" : "tokensFile := '/Volumes/GoogleDrive/My Drive/_tmp/tokens.json' asFileReference."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-09-02T23:48:31.143191-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-09-02T23:54:55.851408-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GaaAKs3ADQC0OQs3Dy/3vQ=="
+				},
+				"code" : "content := tokensFile contents.\r\r\ntokens := NeoJSONReader fromString: content."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2023-05-03T08:26:20.218-03:00"
 					}
 				},
@@ -66,14 +134,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-05-03T08:26:36.045-03:00"
+						"dateAndTimeString" : "2023-09-02T23:53:32.59653-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "qP7hDyq3DQCgyt4lCKoSBw=="
 				},
-				"code" : "apiKey := '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'"
+				"code" : "apiKey := (tokens at: 'openai') at: 'apikey'"
 			},
 			{
 				"__type" : "pharoSnippet",
