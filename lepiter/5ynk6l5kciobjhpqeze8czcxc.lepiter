@@ -71,6 +71,287 @@
 					"uidString" : "iMNkK1WoDQCtPicACU9e+g=="
 				},
 				"code" : "Metacello new\n   baseline: 'P3';\n   repository: 'github://svenvc/P3';\n   load."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:28:26.523-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:28:27.784-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kOHojknEDQCadgJmBUbQIg=="
+				},
+				"code" : "Metacello new\n   baseline: 'GToolkit4P3';\n   repository: 'github://feenkcom/gt4p3';\n   load."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:28:55.642-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:28:56.439-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "qDOlkEnEDQCajzYZBUbQIg=="
+				},
+				"code" : "\"Import ODBC\"\rMetacello new\r\trepository: 'github://pharo-rdbms/Pharo-ODBC/src';\r\tbaseline: 'ODBC';\r\tload"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:09.082-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:17.257-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wENykUnEDQCamjDgBUbQIg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Test Postgres"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:20.281-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:21.1-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wCkdkknEDQCa7716BUbQIg=="
+				},
+				"code" : "\"Manual control of query execution\"\rclient := P3Client new url: 'postgres://kromnzhl:yOajS4Zou_7Dj_PeCN8FPhINCNWA0qmx@silly.db.elephantsql.com/kromnzhl'.\r\rresult := client query: 'SELECT * FROM turmas t\r            INNER JOIN professores p on p.cpf_prof = t.cpf_prof\r\t\t\t   INNER JOIN disciplinas d on d.id_disc = t.id_disc'.\r\t\t\t\rarrayOfDict := result recordsAsDictionaries .\r\rgroupOrderedDict := arrayOfDict groupedBy: [ :each | each at: #cpf_prof ].\r\t\t\t\rclient close."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:32.493-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:38.037-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+HzXkknEDQCa+l0HBUbQIg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Test ODBC"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:42.592-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:29:43.853-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GJpxk0nEDQCbO/92BUbQIg=="
+				},
+				"code" : "db := ODBCConnection new.\rdb connectString: 'Driver={SQL Server};Server=SQLDC1VDH0003\\dciai;Database=FGV_EBAPE_GESTAO_ACADEMICA;Uid=FGV_EBAPE_GESTAO_ACADEMICA;Pwd=iR2CcdS6171R33p7;DSN=FGV_EBAPE_GESTAO_ACADEMICA;'.\r\rstatement := db prepare: 'select * from acao'.\rstatement exec.\rrows := statement results."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:30:18.848-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:30:24.402-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GNOalUnEDQCbc8GzBUbQIg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "## Test Dataframe"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:30:29.973-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-10-17T08:30:31.434-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IJRElknEDQCbzabKBUbQIg=="
+				},
+				"code" : "weather := DataFrame withRows: #(\r  (2.4 true rain)\r  (0.5 true rain)\r  (-1.2 true snow)\r  (-2.3 false -)\r  (3.2 true rain)).\r\r\"weather writeToCsv: 'weather.csv' asFileReference\"\r\rweather columnNames: #(temperature preciptation type). "
 			}
 		]
 	},
