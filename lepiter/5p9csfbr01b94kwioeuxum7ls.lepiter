@@ -715,6 +715,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[data-analysis - SQL Exam Quiz Exploration]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-01T09:57:26.954-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-01T09:57:26.957-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WOe6C9THDQCwEg7YCH9omA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[data-analysis - Test DataFrame on GT]]"
 						}
 					]
 				},
@@ -1125,6 +1162,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[note - Task Organization]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-01T09:57:38.607-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-01T09:57:38.611-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "MHVZDNTHDQCwP2g1CH9omA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[note - Aula Transformação Digital]]"
 						}
 					]
 				},
