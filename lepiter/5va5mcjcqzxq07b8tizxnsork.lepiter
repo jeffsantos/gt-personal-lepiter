@@ -173,156 +173,7 @@
 													"__type" : "textSnippet",
 													"children" : {
 														"__type" : "snippets",
-														"items" : [
-															{
-																"__type" : "textSnippet",
-																"children" : {
-																	"__type" : "snippets",
-																	"items" : [ ]
-																},
-																"createEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"createTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:37:40.427-03:00"
-																	}
-																},
-																"editEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"editTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:41:37.391-03:00"
-																	}
-																},
-																"uid" : {
-																	"__type" : "uid",
-																	"uidString" : "KKXI7tLHDQCsOFp+ChEW3g=="
-																},
-																"paragraphStyle" : {
-																	"__type" : "textStyle"
-																},
-																"string" : "Recapitular o que vimos sobre AI com demos: Python e Weka"
-															},
-															{
-																"__type" : "textSnippet",
-																"children" : {
-																	"__type" : "snippets",
-																	"items" : [ ]
-																},
-																"createEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"createTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:36:31.5-03:00"
-																	}
-																},
-																"editEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"editTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:36:48.913-03:00"
-																	}
-																},
-																"uid" : {
-																	"__type" : "uid",
-																	"uidString" : "+Oqs6tLHDQCoQchcChEW3g=="
-																},
-																"paragraphStyle" : {
-																	"__type" : "textStyle"
-																},
-																"string" : "Retormar os slides Machine Learning for Kids"
-															},
-															{
-																"__type" : "textSnippet",
-																"children" : {
-																	"__type" : "snippets",
-																	"items" : [ ]
-																},
-																"createEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"createTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:36:49.793-03:00"
-																	}
-																},
-																"editEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"editTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:37:16.027-03:00"
-																	}
-																},
-																"uid" : {
-																	"__type" : "uid",
-																	"uidString" : "6A/E69LHDQCpYDKlChEW3g=="
-																},
-																"paragraphStyle" : {
-																	"__type" : "textStyle"
-																},
-																"string" : "Repetir a parte final sobre o modelo probabilístico dos Modelos de Linguagem"
-															},
-															{
-																"__type" : "textSnippet",
-																"children" : {
-																	"__type" : "snippets",
-																	"items" : [ ]
-																},
-																"createEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"createTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:37:16.635-03:00"
-																	}
-																},
-																"editEmail" : {
-																	"__type" : "email",
-																	"emailString" : "<unknown>"
-																},
-																"editTime" : {
-																	"__type" : "time",
-																	"time" : {
-																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2023-12-01T08:37:31.845-03:00"
-																	}
-																},
-																"uid" : {
-																	"__type" : "uid",
-																	"uidString" : "kJ9d7dLHDQCrJqn6ChEW3g=="
-																},
-																"paragraphStyle" : {
-																	"__type" : "textStyle"
-																},
-																"string" : "Apresentar Redes Neurais na plataforma"
-															}
-														]
+														"items" : [ ]
 													},
 													"createEmail" : {
 														"__type" : "email",
@@ -332,7 +183,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:36:06.612-03:00"
+															"dateAndTimeString" : "2023-12-01T08:39:35.853-03:00"
 														}
 													},
 													"editEmail" : {
@@ -343,17 +194,17 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:36:14.288-03:00"
+															"dateAndTimeString" : "2023-12-01T08:51:20.532-03:00"
 														}
 													},
 													"uid" : {
 														"__type" : "uid",
-														"uidString" : "ICwx6dLHDQCn8Q8pChEW3g=="
+														"uidString" : "4Oup9dLHDQCtrur7ChEW3g=="
 													},
 													"paragraphStyle" : {
 														"__type" : "textStyle"
 													},
-													"string" : "Redes Neurais"
+													"string" : "Introdução ao Blockchain: Transações sem Intermediários"
 												}
 											]
 										},
@@ -407,7 +258,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:39:35.853-03:00"
+															"dateAndTimeString" : "2023-12-15T07:57:27.633-03:00"
 														}
 													},
 													"editEmail" : {
@@ -418,17 +269,17 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:51:20.532-03:00"
+															"dateAndTimeString" : "2023-12-15T07:57:35.518-03:00"
 														}
 													},
 													"uid" : {
 														"__type" : "uid",
-														"uidString" : "4Oup9dLHDQCtrur7ChEW3g=="
+														"uidString" : "iFccAOzIDQCR9QNiBapyEg=="
 													},
 													"paragraphStyle" : {
 														"__type" : "textStyle"
 													},
-													"string" : "Introdução ao Blockchain: Transações sem Intermediários"
+													"string" : "Blockchain Passo a Passo"
 												}
 											]
 										},
@@ -520,7 +371,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:50:42.946-03:00"
+															"dateAndTimeString" : "2023-12-15T11:33:24.236-03:00"
 														}
 													},
 													"editEmail" : {
@@ -531,131 +382,18 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:50:57.164-03:00"
+															"dateAndTimeString" : "2023-12-15T11:33:47.817-03:00"
 														}
 													},
 													"uid" : {
 														"__type" : "uid",
-														"uidString" : "0PdsHdPHDQCweGjzChEW3g=="
+														"uidString" : "+KoFBe/IDQCNmRVaC9z9DA=="
 													},
 													"paragraphStyle" : {
 														"__type" : "textStyle"
 													},
-													"string" : "Blockchain Passo a Passo"
+													"string" : "Falar um pouco sobre a taxonomia de Governo Digital usando a dissertação do Leonardo"
 												},
-												{
-													"__type" : "textSnippet",
-													"children" : {
-														"__type" : "snippets",
-														"items" : [ ]
-													},
-													"createEmail" : {
-														"__type" : "email",
-														"emailString" : "<unknown>"
-													},
-													"createTime" : {
-														"__type" : "time",
-														"time" : {
-															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:54:22.086-03:00"
-														}
-													},
-													"editEmail" : {
-														"__type" : "email",
-														"emailString" : "<unknown>"
-													},
-													"editTime" : {
-														"__type" : "time",
-														"time" : {
-															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:54:23.235-03:00"
-														}
-													},
-													"uid" : {
-														"__type" : "uid",
-														"uidString" : "cMd8KtPHDQC0gujFChEW3g=="
-													},
-													"paragraphStyle" : {
-														"__type" : "textStyle"
-													},
-													"string" : "**Atividade??**"
-												}
-											]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-12-01T08:49:42.993-03:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-12-01T08:50:02.032-03:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "gCTaGdPHDQCvpyoxChEW3g=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "### 8:30 - 12:45"
-									}
-								]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-01T08:49:01.191-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-01T08:49:21.897-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "cEtcF9PHDQCu5Ac+ChEW3g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "## Dia 2 - Manhã"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [
 												{
 													"__type" : "textSnippet",
 													"children" : {
@@ -767,12 +505,347 @@
 														"__type" : "textStyle"
 													},
 													"string" : "Dark Side do uso da tecnologia"
-												},
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-01T08:49:42.993-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-15T07:57:48.58-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "gCTaGdPHDQCvpyoxChEW3g=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "### 8:30 - 11:45"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
 												{
 													"__type" : "textSnippet",
 													"children" : {
 														"__type" : "snippets",
-														"items" : [ ]
+														"items" : [
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:39:00.501-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:51:07.162-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "SKDgAu/IDQCNKuSHC9z9DA=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "Grupos de até 5 (de 5 a 6 grupos)"
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:32:58.629-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:39:29.942-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "iPN+A+/IDQCNY7QtC9z9DA=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "Ler o case --> Qualquer estratégia"
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:34:38.157-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:48:56.315-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "kCHwBu/IDQCPvn+pC9z9DA=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "One-Slide Presentation (Poster) "
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:42:56.395-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-16T10:39:17.683-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "EM8LNvnIDQCcKyDyC5tA5Q=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "Consiste em elaborar um projeto de estudo para a solução de um problema de\r\nnegócio utilizando a tecnologia Blockchain"
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:42:59.719-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:42:59.719-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "iIM+NvnIDQCcMvY9C5tA5Q=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "Você deve descrever um determinado problema de negócio,\r\nreal ou fictício, que possa ser resolvido através do uso de Blockchain ou de outra\r\nDigital Ledger Tecnology (DTL’s)."
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:43:34.811-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:43:34.811-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "8O1VOPnIDQCcRMHdC5tA5Q=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "Observe que não se trata de um projeto de implantação de tecnologia, mas sim,\r\nde uma investigação sobre como Blockchain e seus conceitos relacionados (crip-\r\ntografia, privacidade, navegação segura, rastreabilidade, ...) podem ser usadas\r\npara endereçar um determinado problema de negócio."
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:51:16.933-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:43:34.813-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "uLX1RO/IDQCZYHUOC9z9DA=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "Alguns exemplos de problemas de negócio que podem ser considerados:\r\n• Um problema organizacional real do seu trabalho atual\r\n• Um problema de uma empresa fictícia (para aqueles que possam ter\r\nquestões de confidencialidade e prefiram não descrever problemas reais\r\nde suas empresas, por exemplo)\r\n• Uma ideia para um novo empreendimento/produto/servi\r\n• Um problema da sociedade (ex.: mobilidade, serviços ao cidadão,\r\ntransparência de órgão públicos, etc)\r\n• Entre outros..."
+															},
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:54:06.934-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T23:43:52.732-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "CLwXT+/IDQCZaVVQC9z9DA=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "OBS.: Você também pode descrever seu projeto justificando o uso de uma tecnologia mais\r\ntradicional, criticando e justificando porque a tecnologia da moda correspondente não traria vantagem\r\nalguma para a organização. Nesse caso, ajuste os itens na descrição abaixo para permitir seu\r\nargumento."
+															}
+														]
 													},
 													"createEmail" : {
 														"__type" : "email",
@@ -782,7 +855,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:52:56.021-03:00"
+															"dateAndTimeString" : "2023-12-15T11:32:45.829-03:00"
 														}
 													},
 													"editEmail" : {
@@ -793,23 +866,174 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:53:57.692-03:00"
+															"dateAndTimeString" : "2023-12-15T11:32:46.849-03:00"
 														}
 													},
 													"uid" : {
 														"__type" : "uid",
-														"uidString" : "IIRbJdPHDQCzs+clChEW3g=="
+														"uidString" : "oJ+7Au/IDQCNGiRaC9z9DA=="
 													},
 													"paragraphStyle" : {
 														"__type" : "textStyle"
 													},
-													"string" : "Transformação Digital"
-												},
+													"string" : "**Atividade**"
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-15T07:58:13.532-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-15T23:19:05.232-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "ePV7A+zIDQCSTW9+BapyEg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "### 10:45 - 12:45"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-01T08:49:01.191-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-01T08:49:21.897-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cEtcF9PHDQCu5Ac+ChEW3g=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "## Dia 2 - Manhã"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:48:52.963-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:50:12.289-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "uO5gPO/IDQCYx+DkC9z9DA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "*12:45 - 14:00 - Almoço*"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
 												{
 													"__type" : "textSnippet",
 													"children" : {
 														"__type" : "snippets",
-														"items" : [ ]
+														"items" : [
+															{
+																"__type" : "textSnippet",
+																"children" : {
+																	"__type" : "snippets",
+																	"items" : [ ]
+																},
+																"createEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"createTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:39:43.013-03:00"
+																	}
+																},
+																"editEmail" : {
+																	"__type" : "email",
+																	"emailString" : "<unknown>"
+																},
+																"editTime" : {
+																	"__type" : "time",
+																	"time" : {
+																		"__type" : "dateAndTime",
+																		"dateAndTimeString" : "2023-12-15T11:40:18.537-03:00"
+																	}
+																},
+																"uid" : {
+																	"__type" : "uid",
+																	"uidString" : "0N89Fe/IDQCQ6grzC9z9DA=="
+																},
+																"paragraphStyle" : {
+																	"__type" : "textStyle"
+																},
+																"string" : "20 min por grupo (aproximadamente 2 horas)"
+															}
+														]
 													},
 													"createEmail" : {
 														"__type" : "email",
@@ -819,7 +1043,7 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:53:58.754-03:00"
+															"dateAndTimeString" : "2023-12-15T08:03:32.924-03:00"
 														}
 													},
 													"editEmail" : {
@@ -830,17 +1054,17 @@
 														"__type" : "time",
 														"time" : {
 															"__type" : "dateAndTime",
-															"dateAndTimeString" : "2023-12-01T08:53:58.754-03:00"
+															"dateAndTimeString" : "2023-12-15T11:40:58.278-03:00"
 														}
 													},
 													"uid" : {
 														"__type" : "uid",
-														"uidString" : "0MIYKdPHDQC0KQX5ChEW3g=="
+														"uidString" : "YIKFFuzIDQCTrWw/BapyEg=="
 													},
 													"paragraphStyle" : {
 														"__type" : "textStyle"
 													},
-													"string" : ""
+													"string" : "Apresentação do Resultado da Atividade"
 												}
 											]
 										},
@@ -863,7 +1087,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-12-01T08:50:30.574-03:00"
+												"dateAndTimeString" : "2023-12-16T16:22:19.209-03:00"
 											}
 										},
 										"uid" : {
@@ -873,7 +1097,82 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "### 14:00 - 17:45"
+										"string" : "### 14:00 - 16:20"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2023-12-15T11:41:24.631-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2023-12-15T11:41:58.795-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "uAuWIe/IDQCUaLRMC9z9DA=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Fechamento (EDGE, características de organizações orientadas à Transf. Digital)"
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-15T11:41:07.505-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-16T16:22:31.837-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "gJeiIO/IDQCUBDYrC9z9DA=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "###16:20 - 17:45"
 									}
 								]
 							},
@@ -929,7 +1228,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-12-01T09:54:01.592-03:00"
+						"dateAndTimeString" : "2023-12-15T11:47:19.709-03:00"
 					}
 				},
 				"uid" : {
@@ -939,13 +1238,236 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "##Ciclo 2"
+				"string" : "## Ciclo 2"
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-12-15T11:42:12.601-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-12-15T11:42:12.601-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wOCDJO/IDQCWaUvNC9z9DA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:43:01.955-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:43:45.117-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "aF01Ju/IDQCW5WIEC9z9DA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtTodo:label=Passo a passo do bitcoin}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:43:47.645-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:43:58.409-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "YCIuKu/IDQCXmOmlC9z9DA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtTodo:label=Desenho de Criptografia}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:44:01.819-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:47:04.663-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "eG0GK+/IDQCXz1KvC9z9DA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtTodo:label=Exercício|completed=2023-12-15}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:44:24.904-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:44:29.841-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "WKlmLO/IDQCYPLiKC9z9DA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "{{gtTodo:label=Resumo das ideias do livro EDGE}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:44:18.658-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2023-12-15T11:44:18.658-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "0F4HLO/IDQCYM9vUC9z9DA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : ""
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -966,7 +1488,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-12-01T08:49:12.37-03:00"
+						"dateAndTimeString" : "2023-12-15T11:42:27.931-03:00"
 					}
 				},
 				"uid" : {
@@ -976,7 +1498,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "## Organização"
 			}
 		]
 	},
