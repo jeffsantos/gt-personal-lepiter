@@ -1342,7 +1342,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-02-28T08:47:37.862-03:00"
+												"dateAndTimeString" : "2024-03-10T10:21:28.432-03:00"
 											}
 										},
 										"uid" : {
@@ -1352,7 +1352,44 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "[[Modulo 1]]"
+										"string" : "[[Modulo 1 - Agrupamento]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-10T10:21:16.176-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-10T10:21:16.186-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "OGMZCbDPDQC+LJTzC93uzw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[Modulo 2 - Regressão]]"
 									}
 								]
 							},
