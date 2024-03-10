@@ -347,6 +347,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "[[snippet - Exploring KeyStone API]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-10T19:56:56.966-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-10T19:56:56.984-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "gD+1E7jPDQCTU+0vBp3ZwQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[snippet - CrossRef API]]"
 									}
 								]
 							},
@@ -496,6 +533,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "[[video-tutorial - Lepíter moldable knowledge platform - ESUG 2022]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-10T20:03:20.609-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-10T20:03:20.623-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "eI6iKrjPDQCTlLpwBp3ZwQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[snippet - Python Integration]]"
 									}
 								]
 							},

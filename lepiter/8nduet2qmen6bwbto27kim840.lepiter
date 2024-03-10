@@ -1,0 +1,277 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:57:49.762-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-07T09:08:34.898-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6J20I2rPDQCgko89CWHmqg=="
+				},
+				"code" : "producoesFile := 'D:\\Users\\jefferson\\Google Drive\\_jupyter\\course-mitpro\\module1\\producoes-2017-2024.csv' asFileReference."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-07T09:07:03.058-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-07T09:08:12.149-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aKZzpnLPDQCh1+qWBf3Q1w=="
+				},
+				"code" : "df := DataFrame readFromCsv: producoesFile"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:48:31.102-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:49:41.996-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SCRoAmrPDQCfwAciCWHmqg=="
+				},
+				"code" : "doi := '10.5753/jidm.2022.2601'"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:49:42.711-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:49:43.978-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8M6sBmrPDQCgE3uICWHmqg=="
+				},
+				"code" : "doi := '10.18222/eae.v34.7951'."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:51:23.282-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:51:35.933-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UGqrDGrPDQCgTN/rCWHmqg=="
+				},
+				"code" : "doi := '10.1016/j.entcs.2016.09.014'"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:13:39.962-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:49:39.814-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "kOTDhWnPDQCzt7+pDwYakg=="
+				},
+				"code" : "url := 'https://api.crossref.org/works/',doi."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:20:14.873-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-06T22:51:04.517-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wL1NnWnPDQCz3C1jDwYakg=="
+				},
+				"code" : "json := ZnClient new get: url.\r\rwork := AcademicWork new rawData: (STON fromString: json).\r\r(work rawData at: 'message') at: 'abstract'"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-03-10T19:56:12.334-03:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-03-10T19:56:42.122-03:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "snippet - CrossRef API"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "90e4c385-69cf-0d00-b3b6-2f750f061a92"
+	}
+}
