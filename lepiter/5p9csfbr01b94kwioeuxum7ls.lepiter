@@ -1299,7 +1299,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-01T09:57:38.611-03:00"
+									"dateAndTimeString" : "2024-03-15T10:42:45.325-03:00"
 								}
 							},
 							"uid" : {
@@ -1309,7 +1309,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[note - Aula Transformação Digital]]"
+							"string" : "[[note - Aula Transformação Digital 2024]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -1497,6 +1497,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[MitPro - Ciência de Dados e Big Data]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-03-15T11:00:51.817-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-03-15T11:01:09.277-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cNDIKxXQDQCnUjBHCd06IQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[book - Think Stats]]"
 						}
 					]
 				},

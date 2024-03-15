@@ -422,7 +422,7 @@
 																	"__type" : "time",
 																	"time" : {
 																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2024-03-10T10:39:12.346-03:00"
+																		"dateAndTimeString" : "2024-03-14T08:58:53.944-03:00"
 																	}
 																},
 																"uid" : {
@@ -432,7 +432,7 @@
 																"paragraphStyle" : {
 																	"__type" : "textStyle"
 																},
-																"string" : "X = (D, W)"
+																"string" : "X = (D, W')'"
 															},
 															{
 																"__type" : "textSnippet",
@@ -862,7 +862,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-10T10:55:01.259-03:00"
+												"dateAndTimeString" : "2024-03-14T09:01:20.622-03:00"
 											}
 										},
 										"uid" : {
@@ -872,7 +872,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "Poder calcular a esperança (expectativa) matemática das médias da população (???) ou de Y * X"
+										"string" : "Poder calcular a esperança (expectativa) matemática das médias da população (???) ou de Y * X (EY ou EXY)"
 									},
 									{
 										"__type" : "textSnippet",
@@ -1162,6 +1162,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Frisch-Waugh-Lovell, FWL Theorem"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-14T08:32:58.992-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-14T08:36:54.946-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mE2B/f7PDQCzBErPBoLgNg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "### 2.2.1. Regressão linear moderna"
 			}
 		]
 	},

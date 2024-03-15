@@ -29,14 +29,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-07T09:08:34.898-03:00"
+						"dateAndTimeString" : "2024-03-15T11:03:20.768-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "6J20I2rPDQCgko89CWHmqg=="
 				},
-				"code" : "producoesFile := 'D:\\Users\\jefferson\\Google Drive\\_jupyter\\course-mitpro\\module1\\producoes-2017-2024.csv' asFileReference."
+				"code" : "producoesFile := 'D:\\Users\\jefferson\\Google Drive\\_jupyter\\data-science-study\\course-mitpro\\module1\\producoes-2017-2024.csv' asFileReference."
 			},
 			{
 				"__type" : "pharoSnippet",
