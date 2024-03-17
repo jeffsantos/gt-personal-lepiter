@@ -301,7 +301,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-15T10:35:02.71-03:00"
+												"dateAndTimeString" : "2024-03-15T11:12:23.85-03:00"
 											}
 										},
 										"uid" : {
@@ -311,7 +311,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "### 8:30 - 11:45"
+										"string" : "### 8:30 - 10:45 - Ciência de Dados"
 									},
 									{
 										"__type" : "textSnippet",
@@ -338,7 +338,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-15T10:35:28.033-03:00"
+												"dateAndTimeString" : "2024-03-15T11:13:07.68-03:00"
 											}
 										},
 										"uid" : {
@@ -348,7 +348,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "### 10:45 - 12:45"
+										"string" : "### 10:45 - 12:45 - Inteligência Artificial"
 									}
 								]
 							},
@@ -429,7 +429,156 @@
 										"__type" : "textSnippet",
 										"children" : {
 											"__type" : "snippets",
-											"items" : [ ]
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:13:20.08-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:13:36.151-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "cIOsWBXQDQCw/HsPBsk/Gg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Exemplo de Classificação no Weka"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:13:36.352-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:13:50.271-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "GB/HWRXQDQCxuYB1Bsk/Gg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Exemplo de Classificação usando o Pycaret (falar de Low Code)"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:13:50.796-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:14:10.66-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "EIGjWhXQDQCy70fhBsk/Gg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Exemplo de Clusterização usando o K-means (jupyter do curso do MIT)"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:14:11.255-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:14:37.018-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "2LbbWxXQDQC0ZivqBsk/Gg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Outros métodos de Agrupamento (LDA) - Análise dos artigos"
+												}
+											]
 										},
 										"createEmail" : {
 											"__type" : "email",
@@ -450,7 +599,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-15T10:35:50.206-03:00"
+												"dateAndTimeString" : "2024-03-15T11:13:17.18-03:00"
 											}
 										},
 										"uid" : {
@@ -460,13 +609,88 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "### 14:00 - 16:20"
+										"string" : "### 14:00 - 16:20 - Demonstrações"
 									},
 									{
 										"__type" : "textSnippet",
 										"children" : {
 											"__type" : "snippets",
-											"items" : [ ]
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:14:45.221-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:14:50.675-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "iP7hXRXQDQC12BY0Bsk/Gg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "Deep Learning"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:14:58.296-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-15T11:15:00.332-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "2HypXhXQDQC2Ir45Bsk/Gg=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "LLMs"
+												}
+											]
 										},
 										"createEmail" : {
 											"__type" : "email",
@@ -487,7 +711,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-15T10:35:59.698-03:00"
+												"dateAndTimeString" : "2024-03-15T11:15:12.499-03:00"
 											}
 										},
 										"uid" : {
@@ -497,7 +721,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "###16:20 - 17:45"
+										"string" : "###16:20 - 17:45 - Deep Learning"
 									}
 								]
 							},
@@ -1629,43 +1853,6 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-15T11:44:01.819-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-15T11:47:04.663-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "eG0GK+/IDQCXz1KvC9z9DA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "{{gtTodo:label=Exercício|completed=2023-12-15}}"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2023-12-15T11:44:24.904-03:00"
 								}
 							},
@@ -1688,43 +1875,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "{{gtTodo:label=Resumo das ideias do livro EDGE}}"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-15T11:44:18.658-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-15T11:44:18.658-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "0F4HLO/IDQCYM9vUC9z9DA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : ""
 						}
 					]
 				},
