@@ -373,7 +373,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-10T19:56:56.984-03:00"
+												"dateAndTimeString" : "2024-03-18T15:44:11.451-03:00"
 											}
 										},
 										"uid" : {
@@ -383,7 +383,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "[[snippet - CrossRef API]]"
+										"string" : "[[snippet - Bibliographics API]]"
 									}
 								]
 							},
