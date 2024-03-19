@@ -1930,12 +1930,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-03-15T10:42:45.31-03:00"
+			"dateAndTimeString" : "2024-03-19T08:38:29.61-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "note - Aula Transformação Digital 2024"
+		"title" : "class - Aula Transformação Digital 2024"
 	},
 	"uid" : {
 		"__type" : "uuid",

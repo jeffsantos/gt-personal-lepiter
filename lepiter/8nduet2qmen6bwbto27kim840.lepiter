@@ -317,7 +317,7 @@
 				"string" : "### Elsevier API"
 			},
 			{
-				"__type" : "pharoSnippet",
+				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
@@ -330,7 +330,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-18T12:29:42.697-03:00"
+						"dateAndTimeString" : "2024-03-19T08:47:56.273-03:00"
 					}
 				},
 				"editEmail" : {
@@ -341,14 +341,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-18T12:29:58.02-03:00"
+						"dateAndTimeString" : "2024-03-19T08:49:04.608-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "WCB6w1LQDQCI33SgB+uHqA=="
+					"uidString" : "aJ0xyGPQDQCHPoHgDvPQ2w=="
 				},
-				"code" : "Metacello new\n  baseline: 'XMLParser';\n  repository: 'github://pharo-contributions/XML-XMLParser/src';\r  onConflictUseIncoming;\n  load."
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Depends on [](https://github.com/pharo-contributions/XML-XMLParser)"
 			},
 			{
 				"__type" : "pharoSnippet",

@@ -1221,12 +1221,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-03-10T10:20:58.161-03:00"
+			"dateAndTimeString" : "2024-03-19T08:56:30.851-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Modulo 2 - Regressão"
+		"title" : "mitpro - Modulo 2 - Regressão"
 	},
 	"uid" : {
 		"__type" : "uuid",

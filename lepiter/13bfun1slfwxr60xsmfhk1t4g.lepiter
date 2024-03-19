@@ -791,12 +791,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-12-18T16:28:28.04-03:00"
+			"dateAndTimeString" : "2024-03-19T08:38:41.586-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "note - Bitcoin: The first Blockchain application"
+		"title" : "class - Bitcoin: The first Blockchain application"
 	},
 	"uid" : {
 		"__type" : "uuid",

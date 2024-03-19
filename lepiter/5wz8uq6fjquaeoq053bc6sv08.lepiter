@@ -184,7 +184,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-03-16T08:29:34.62-03:00"
+												"dateAndTimeString" : "2024-03-19T08:21:34.614-03:00"
 											}
 										},
 										"uid" : {
@@ -194,7 +194,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "A link to another page [[data-analysis - Data Analysis Packages]]"
+										"string" : "A link to another page [[data-analysis - IA and DataScience Packages]]"
 									},
 									{
 										"__type" : "textSnippet",

@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-10T10:21:28.427-03:00"
+						"dateAndTimeString" : "2024-03-19T08:56:20.982-03:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Modulo 1 - Agrupamento]]"
+				"string" : "[[mitpro - Modulo 1 - Agrupamento]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-10T10:21:42.608-03:00"
+						"dateAndTimeString" : "2024-03-19T08:56:30.857-03:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Modulo 2 - Regressão]]"
+				"string" : "[[mitpro - Modulo 2 - Regressão]]"
 			}
 		]
 	},
@@ -99,12 +99,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-02-28T08:20:55.692-03:00"
+			"dateAndTimeString" : "2024-03-19T08:56:08.429-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "MitPro - Ciência de Dados e Big Data"
+		"title" : "mitpro - Ciência de Dados e Big Data"
 	},
 	"uid" : {
 		"__type" : "uuid",

@@ -214,43 +214,6 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-07-04T16:59:26.641-03:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2023-07-04T16:59:26.647-03:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "UKWYdBC8DQCb0Py1ASVt9g=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "[[snippet - Exploring GitHub API]]"
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
 												"dateAndTimeString" : "2023-07-04T16:59:53.894-03:00"
 											}
 										},
@@ -273,6 +236,43 @@
 											"__type" : "textStyle"
 										},
 										"string" : "[[video-tutorial - ChatGPT Prompt Engineering for Developers]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-07-04T16:59:26.641-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-07-04T16:59:26.647-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "UKWYdBC8DQCb0Py1ASVt9g=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[snippet - Exploring GitHub API]]"
 									},
 									{
 										"__type" : "textSnippet",
@@ -667,7 +667,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:05:27.642-03:00"
+									"dateAndTimeString" : "2024-03-19T08:21:34.616-03:00"
 								}
 							},
 							"uid" : {
@@ -677,44 +677,7 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[data-analysis - Data Analysis Packages]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-10-17T08:33:12.586-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-10-17T08:33:12.591-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "2P6Qn0nEDQCdloOtBUbQIg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[data-analysis - Data Science Exploration]]"
+							"string" : "[[data-analysis - IA and DataScience Packages]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -767,7 +730,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-31T15:23:41.018-03:00"
+									"dateAndTimeString" : "2024-03-19T08:32:23.455-03:00"
 								}
 							},
 							"editEmail" : {
@@ -778,23 +741,135 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-08-31T15:23:41.029-03:00"
+									"dateAndTimeString" : "2024-03-19T08:32:23.459-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "yJDS4J3ADQCvq7giAxeqJw=="
+								"uidString" : "GLo4kGPQDQCGPbG0DvPQ2w=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[data-analysis - SQL Exam Quiz Exploration]]"
+							"string" : "[[data-analysis - HTML, XML and JSON Processing]]"
 						},
 						{
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-08-31T15:23:41.018-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-08-31T15:23:41.029-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "yJDS4J3ADQCvq7giAxeqJw=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[data-analysis - SQL Exam Quiz Exploration]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-01T09:57:26.954-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-01T09:57:26.957-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "WOe6C9THDQCwEg7YCH9omA=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[data-analysis - Test DataFrame on GT]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-14T14:58:06.184509-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-14T14:58:06.211466-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "IoG4wt3IDQCZwv7ZABfq4Q=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[data-analysis - IBM Catalog]]"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -804,7 +879,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-01T09:57:26.954-03:00"
+									"dateAndTimeString" : "2024-03-19T08:32:57.719-03:00"
 								}
 							},
 							"editEmail" : {
@@ -815,54 +890,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-01T09:57:26.957-03:00"
+									"dateAndTimeString" : "2024-03-19T08:33:01.733-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "WOe6C9THDQCwEg7YCH9omA=="
+								"uidString" : "8MCikmPQDQCGgn33DvPQ2w=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[data-analysis - Test DataFrame on GT]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-14T14:58:06.184509-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-14T14:58:06.211466-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "IoG4wt3IDQCZwv7ZABfq4Q=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[data-analysis - IBM Catalog]]"
+							"string" : "[[Cases]]"
 						}
 					]
 				},
@@ -1050,80 +1088,6 @@
 								"__type" : "textStyle"
 							},
 							"string" : "[[snippet - Running a Tealight Server]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:03:45.005-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:03:45.01-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "0A0yhBC8DQCdkmmYASVt9g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[snippet - Scraping a html page using Soup]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:03:52.261-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:03:52.265-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "GGOKhBC8DQCdup2UASVt9g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[snippet - Scraping a html page using XPath]]"
 						}
 					]
 				},
@@ -1177,43 +1141,6 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:10:03.165-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-04T17:10:03.175-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "EL9mmhC8DQCgdJI+ASVt9g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[note - Git Repo File Format]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
 									"dateAndTimeString" : "2023-07-04T17:10:13.506-03:00"
 								}
 							},
@@ -1251,7 +1178,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-27T20:08:01.586392-03:00"
+									"dateAndTimeString" : "2024-03-15T11:00:51.817-03:00"
 								}
 							},
 							"editEmail" : {
@@ -1262,17 +1189,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-07-27T20:08:01.592639-03:00"
+									"dateAndTimeString" : "2024-03-15T11:01:09.277-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "zGpNxeG9DQC9FaLMDXTnfg=="
+								"uidString" : "cNDIKxXQDQCnUjBHCd06IQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[note - Task Organization]]"
+							"string" : "[[book - Think Stats]]"
 						},
 						{
 							"__type" : "textSnippet",
@@ -1288,7 +1215,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-01T09:57:38.607-03:00"
+									"dateAndTimeString" : "2023-07-04T17:10:03.165-03:00"
 								}
 							},
 							"editEmail" : {
@@ -1299,23 +1226,98 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-03-15T10:42:45.325-03:00"
+									"dateAndTimeString" : "2023-07-04T17:10:03.175-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "MHVZDNTHDQCwP2g1CH9omA=="
+								"uidString" : "EL9mmhC8DQCgdJI+ASVt9g=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[note - Aula Transformação Digital 2024]]"
+							"string" : "[[note - Git Repo File Format]]"
 						},
 						{
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-01T09:57:38.607-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-19T08:38:29.622-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "MHVZDNTHDQCwP2g1CH9omA=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[class - Aula Transformação Digital 2024]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2023-12-18T16:28:49.267-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-19T08:38:41.594-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "iIhRfi/JDQChxrVbA/O2eg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[class - Bitcoin: The first Blockchain application]]"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -1325,7 +1327,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-18T16:28:49.267-03:00"
+									"dateAndTimeString" : "2024-03-19T08:37:58.737-03:00"
 								}
 							},
 							"editEmail" : {
@@ -1336,17 +1338,167 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2023-12-18T16:28:49.271-03:00"
+									"dateAndTimeString" : "2024-03-19T08:37:58.744-03:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "iIhRfi/JDQChxrVbA/O2eg=="
+								"uidString" : "IBxlpGPQDQCG8cJrDvPQ2w=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[note - Bitcoin: The first Blockchain application]]"
+							"string" : "[[Classes]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-02-28T08:47:37.857-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-19T08:56:20.986-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "6DjYcdHODQCqyFMfAx0/8Q=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "[[mitpro - Modulo 1 - Agrupamento]]"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-10T10:21:16.176-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-19T08:56:30.859-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "OGMZCbDPDQC+LJTzC93uzw=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "[[mitpro - Modulo 2 - Regressão]]"
+												}
+											]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-02-28T08:24:11.423-03:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-03-19T08:56:08.442-03:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "QMryHdHODQCwxWfGCjGhkQ=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "[[mitpro - Ciência de Dados e Big Data]]"
+									}
+								]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-02-28T08:24:00.857-03:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-02-28T08:24:00.864-03:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "0JxPHdHODQCwqUILCjGhkQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[Cursos]]"
 						}
 					]
 				},
@@ -1380,193 +1532,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "[[Personal Notes]]"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-02-28T08:47:37.857-03:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-10T10:21:28.432-03:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "6DjYcdHODQCqyFMfAx0/8Q=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "[[Modulo 1 - Agrupamento]]"
-									},
-									{
-										"__type" : "textSnippet",
-										"children" : {
-											"__type" : "snippets",
-											"items" : [ ]
-										},
-										"createEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"createTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-10T10:21:16.176-03:00"
-											}
-										},
-										"editEmail" : {
-											"__type" : "email",
-											"emailString" : "<unknown>"
-										},
-										"editTime" : {
-											"__type" : "time",
-											"time" : {
-												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2024-03-10T10:21:16.186-03:00"
-											}
-										},
-										"uid" : {
-											"__type" : "uid",
-											"uidString" : "OGMZCbDPDQC+LJTzC93uzw=="
-										},
-										"paragraphStyle" : {
-											"__type" : "textStyle"
-										},
-										"string" : "[[Modulo 2 - Regressão]]"
-									}
-								]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-02-28T08:24:11.423-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-02-28T08:24:11.431-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "QMryHdHODQCwxWfGCjGhkQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[MitPro - Ciência de Dados e Big Data]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-03-15T11:00:51.817-03:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-03-15T11:01:09.277-03:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "cNDIKxXQDQCnUjBHCd06IQ=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[book - Think Stats]]"
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-02-28T08:24:00.857-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-02-28T08:24:00.864-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "0JxPHdHODQCwqUILCjGhkQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[Cursos]]"
 			}
 		]
 	},
