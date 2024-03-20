@@ -39,6 +39,176 @@
 				"code" : "producoesFile := 'D:\\Users\\jefferson\\Google Drive\\_jupyter\\data-science-study\\course-mitpro\\module1\\producoes-2017-2024.csv' asFileReference."
 			},
 			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-07T09:07:03.058-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-07T09:08:12.149-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aKZzpnLPDQCh1+qWBf3Q1w=="
+				},
+				"code" : "df := DataFrame readFromCsv: producoesFile"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T16:22:58.554-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T16:23:07.413-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wFSJI2rQDQC4AaA3Al2kDw=="
+				},
+				"code" : "df columnNames"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T16:26:05.458-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T17:18:18.594-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aEatLmrQDQC4N7sGAl2kDw=="
+				},
+				"code" : "uniqueDOIList := ((df column: 'DOI') select: [:each | each isNotNil]) valueCounts keys"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T16:27:09.884-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T16:43:55.97-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eFaEMmrQDQC5duxeAl2kDw=="
+				},
+				"code" : "(df column: 'DOI') valueCounts"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T16:57:06.643-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T17:05:15.11-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ULScnWrQDQC57iMwAl2kDw=="
+				},
+				"code" : "df select: [:each | (each at: 'DOI') = '10.1037/xap0000379']"
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -74,40 +244,6 @@
 					"__type" : "textStyle"
 				},
 				"string" : "### CrossRef API"
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-07T09:07:03.058-03:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-07T09:08:12.149-03:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "aKZzpnLPDQCh1+qWBf3Q1w=="
-				},
-				"code" : "df := DataFrame readFromCsv: producoesFile"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -401,6 +537,74 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:51:35.34-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:52:27.08-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+Psr5G3QDQCpuPcdCxVq8A=="
+				},
+				"code" : "tokens := NeoJSONReader fromString: 'D:\\Users\\jefferson\\Google Drive\\_tmp\\tokens.json' asFileReference contents"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:52:55.902-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:53:00.577-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YD/56G3QDQCqOVaJCxVq8A=="
+				},
+				"code" : "apiKey := (tokens at: 'elsevier') at: 'apikey'"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2024-03-18T12:09:57.177-03:00"
 					}
 				},
@@ -435,6 +639,179 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T17:12:44.78-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T17:12:51.597-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EIaH1WrQDQC39H8PAl2kDw=="
+				},
+				"code" : "doi := '10.1037/xap0000379'"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T17:17:08.397-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:53:12.273-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4AM+5WrQDQC4t4M1Al2kDw=="
+				},
+				"code" : "papers := uniqueDOIList collect: [:doi | \r\tZnClient new\n\t   url: urlBase, doi;\r\t   headerAt: 'X-ELS-APIKey' put: apiKey;\n\t   get\r]"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T17:53:28.2-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T18:52:32.232-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "iCMrZ2vQDQCLA8zpCFitjA=="
+				},
+				"code" : "papersFound := papers select: [:each | (each includesSubstring: 'RESOURCE_NOT_FOUND') not ]"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:29:23.805-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T21:00:02.701-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YF/OlG3QDQC5JR0RA63kFA=="
+				},
+				"code" : "papersFound collect: [:each | each parseXML ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:53:29.188-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-19T20:53:35.298-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "uCr16m3QDQCqjkMiCxVq8A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**Tests**"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2024-03-18T12:00:12.823-03:00"
 					}
 				},
@@ -446,14 +823,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-18T12:07:49.619-03:00"
+						"dateAndTimeString" : "2024-03-19T20:53:17.335-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "8AH8WVLQDQCn/cYoDEX5wQ=="
 				},
-				"code" : "ZnClient new\n   url: urlBase, doi;\r   headerAt: 'X-ELS-APIKey' put: 'a9558aa4fbb8b28c492435f8e60f7eef';\n   get"
+				"code" : "ZnClient new\n   url: urlBase, doi;\r   headerAt: 'X-ELS-APIKey' put: apiKey;\n   get"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -480,14 +857,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-18T12:37:12.462-03:00"
+						"dateAndTimeString" : "2024-03-19T20:53:21.678-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "cIFl3FLQDQCJTLTNB+uHqA=="
 				},
-				"code" : "ZnClient new\n   url: urlBase, doi;\r   headerAt: 'X-ELS-APIKey' put: 'a9558aa4fbb8b28c492435f8e60f7eef';\r   headerAt: 'Accept' put: 'application/json';\n   get"
+				"code" : "ZnClient new\n   url: urlBase, doi;\r   headerAt: 'X-ELS-APIKey' put: apiKey;\r   headerAt: 'Accept' put: 'application/json';\n   get"
 			}
 		]
 	},
