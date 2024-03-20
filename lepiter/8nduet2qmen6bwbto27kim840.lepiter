@@ -775,7 +775,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-19T20:53:29.188-03:00"
+						"dateAndTimeString" : "2024-03-20T12:20:37.078-03:00"
 					}
 				},
 				"editEmail" : {
@@ -786,7 +786,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-19T20:53:35.298-03:00"
+						"dateAndTimeString" : "2024-03-20T12:20:40.057-03:00"
 					}
 				},
 				"uid" : {
@@ -796,7 +796,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "**Tests**"
+				"string" : "#### Tests"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:19:57.868-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:20:04.072-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "KBRN3HrQDQCg1JZ+DGEpNA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**XML**"
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -823,14 +860,119 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-03-19T20:53:17.335-03:00"
+						"dateAndTimeString" : "2024-03-20T12:19:09.724-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "8AH8WVLQDQCn/cYoDEX5wQ=="
 				},
-				"code" : "ZnClient new\n   url: urlBase, doi;\r   headerAt: 'X-ELS-APIKey' put: apiKey;\n   get"
+				"code" : "ret := ZnClient new\n   url: urlBase, doi;\r   headerAt: 'X-ELS-APIKey' put: apiKey;\n   get"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:20:09.594-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:20:19.839-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wAQA3XrQDQCg+2+tDGEpNA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**JSON**"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:19:13.435-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:19:17.871-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2BGn2XrQDQCgaGN+DGEpNA=="
+				},
+				"code" : "(XMLDOMParser parse: ret) document"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:19:21.414-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-03-20T12:19:32.515-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oNkg2nrQDQCghZIfDGEpNA=="
+				},
+				"code" : "ret parseXML"
 			},
 			{
 				"__type" : "pharoSnippet",
