@@ -1433,6 +1433,43 @@
 														"__type" : "textStyle"
 													},
 													"string" : "[[mitpro - Modulo 2 - Regressão]]"
+												},
+												{
+													"__type" : "textSnippet",
+													"children" : {
+														"__type" : "snippets",
+														"items" : [ ]
+													},
+													"createEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"createTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-24T08:58:00.391-03:00"
+														}
+													},
+													"editEmail" : {
+														"__type" : "email",
+														"emailString" : "<unknown>"
+													},
+													"editTime" : {
+														"__type" : "time",
+														"time" : {
+															"__type" : "dateAndTime",
+															"dateAndTimeString" : "2024-03-24T08:58:00.398-03:00"
+														}
+													},
+													"uid" : {
+														"__type" : "uid",
+														"uidString" : "+IgagcjQDQCxs1S8Dkj2tA=="
+													},
+													"paragraphStyle" : {
+														"__type" : "textStyle"
+													},
+													"string" : "[[mitpro - Modulo 3 - Classificação, Testes de Hipóteses e Aprendizagem Profunda]]"
 												}
 											]
 										},
